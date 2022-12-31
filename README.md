@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [a](a)
-
 - 💬 Ask me about **Cloud, Android**
 
 - 📫 How to reach me **niroubamaniru2003@gmail.com**
