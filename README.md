@@ -1,6 +1,6 @@
 [![MasterHead](https://www.accenture.com/www.accenture.com/t20160503T134411Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Global/Technology_23/Accenture-rewritting-innovation-playbook-marquee.gif)](https://niroubama.io)
 <h1 align="center">Hi 👋, I'm Niroubama</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/RipeChiefCrow-size_restricted.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirou07&label=Profile%20views&color=0e75b6&style=flat" alt="nirou07" /> </p>
 
