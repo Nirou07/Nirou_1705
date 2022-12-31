@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://niroubama.io)
+[![MasterHead](https://www.accenture.com/www.accenture.com/t20160503T134411Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Global/Technology_23/Accenture-rewritting-innovation-playbook-marquee.gif)](https://niroubama.io)
 <h1 align="center">Hi 👋, I'm Niroubama</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif>
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/RipeChiefCrow-size_restricted.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirou07&label=Profile%20views&color=0e75b6&style=flat" alt="nirou07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nirou07" target="blank"><img src="https://img.shields.io/twitter/follow/nirou07?logo=twitter&style=for-the-badge" alt="nirou07" /></a> </p>
